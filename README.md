@@ -1,0 +1,1 @@
+analitycy-host-cli
